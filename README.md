@@ -11,11 +11,3 @@ Responsive single-page portfolio built with plain HTML and CSS. No build tools o
 5. Wait for deployment and open `https://YOUR-USERNAME.github.io`.
 
 You can alternatively publish from any repository; its Pages URL will include the repository name.
-
-## Check before publishing
-
-- Verify the phone, email and LinkedIn URL are intended for public display.
-- Confirm whether the public job title should read “Director Technology” or “Director of Technology”.
-- Add a PDF resume link if you want visitors to download the full CV.
-
-Content is based on the supplied resume; no project metrics or unsupported claims have been added.
